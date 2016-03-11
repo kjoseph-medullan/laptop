@@ -104,14 +104,8 @@ brew "git"
 brew "zsh"
 brew "git-flow"
 
-# GitHub
-brew "hub"
-
-# Testing
-brew "qt"
 
 # Programming languages
-brew "libyaml" # should come after openssl
 brew "node"
 brew "rbenv"
 brew "ruby-build"
